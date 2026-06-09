@@ -1,0 +1,370 @@
+{
+  "Ficcao Cientifica e Distopia": [
+    {
+      "id": 1,
+      "titulo": "Duna",
+      "descricao": "Duna é um romance de ficção científica escrito por Frank Herbert, publicado pela primeira vez em 1965. A história se passa em um futuro distante, onde a humanidade colonizou vários planetas. O enredo gira em torno do jovem Paul Atreides, cuja família é encarregada de governar o planeta desértico Arrakis, também conhecido como Duna. Arrakis é a única fonte de uma substância valiosa chamada melange ou especiaria, que é essencial para viagens espaciais e possui propriedades únicas. O livro explora temas como política, religião, ecologia e poder, e é considerado um dos maiores clássicos da literatura de ficção científica.",
+      "autor": "Frank Herbert",
+      "preco": 79.90,
+      "imagem": "/produtos/1.png",
+      "destaque": false
+    },
+    {
+      "id": 2,
+      "titulo": "1984",
+      "descricao": "Winston Smith vive aprisionado na engrenagem totalitária de uma sociedade dominada pelo Estado e pela figura onipresente do Grande Irmão, onde até o pensamento é controlado.",
+      "autor": "George Orwell",
+      "preco": 39.90,
+      "imagem": "/produtos/2.png",
+      "destaque": false
+    },
+    {
+      "id": 3,
+      "titulo": "Admirável Mundo Novo",
+      "descricao": "Uma sociedade futura inteiramente organizada por critérios científicos, onde as pessoas são programadas geneticamente e condicionadas socialmente a serem felizes sem questionamentos.",
+      "autor": "Aldous Huxley",
+      "preco": 44.90,
+      "imagem": "/produtos/3.png",
+      "destaque": false
+    },
+    {
+      "id": 4,
+      "titulo": "Neuromancer",
+      "descricao": "Case é um cowboy do ciberespaço e hacker profissional que, após ser envenenado, aceita uma última missão perigosa na matriz em troca da cura de seu sistema nervoso.",
+      "autor": "William Gibson",
+      "preco": 54.90,
+      "imagem": "/produtos/4.png",
+      "destaque": false
+    },
+    {
+      "id": 5,
+      "titulo": "Androides Sonham com Ovelhas Elétricas?",
+      "descricao": "Em um futuro pós-apocalíptico decadente, o caçador de recompensas Rick Deckard é contratado para encontrar e 'aposentar' seis androides rebeldes que escaparam das colônias espaciais.",
+      "autor": "Philip K. Dick",
+      "preco": 49.90,
+      "imagem": "/produtos/5.png",
+      "destaque": true
+    },
+    {
+      "id": 6,
+      "titulo": "Fahrenheit 451",
+      "descricao": "O terrível retrato de uma sociedade do futuro em que os livros são proibidos e a função dos bombeiros não é apagar incêndios, mas sim queimar toda e qualquer literatura existente.",
+      "autor": "Ray Bradbury",
+      "preco": 42.00,
+      "imagem": "/produtos/6 (2).png",
+      "destaque": false
+    },
+    {
+      "id": 7,
+      "titulo": "O Guia do Mochileiro das Galáxias",
+      "descricao": "Arthur Dent é poupado da destruição da Terra por seu amigo Ford Prefect e, juntos, eles começam a viajar pelo universo com a ajuda de um guia eletrônico hilário.",
+      "autor": "Douglas Adams",
+      "preco": 34.90,
+      "imagem": "/produtos/7.png",
+      "destaque": false
+    },
+    {
+      "id": 8,
+      "titulo": "Matéria Escura",
+      "descricao": "Jason Dessen é sequestrado e acorda em uma realidade alternativa onde sua vida é completamente diferente. Ele precisa iniciar uma jornada desesperada para voltar para sua verdadeira família.",
+      "autor": "Blake Crouch",
+      "preco": 59.90,
+      "imagem": "/produtos/8.png",
+      "destaque": false
+    },
+    {
+      "id": 9,
+      "titulo": "Fundação",
+      "descricao": "O matemático Hari Seldon prevê a queda inevitável do Império Galáctico e cria a Fundação, um grupo dedicado a preservar o conhecimento humano e acelerar o surgimento de uma nova era.",
+      "autor": "Isaac Asimov",
+      "preco": 164.90,
+      "imagem": "/produtos/9.png",
+      "destaque": false
+    },
+    {
+      "id": 10,
+      "titulo": "O Problema dos Três Corpos",
+      "descricao": "No contexto da Revolução Cultural Chinesa, um projeto militar secreto envia sinais para o espaço profundo. Uma civilização alienígena à beira do colapso capta o sinal e planeja invadir a Terra.",
+      "autor": "Cixin Liu",
+      "preco": 74.90,
+      "imagem": "/produtos/10.png",
+      "destaque": false
+    }
+  ],
+  "Fantasia": [
+    {
+      "id": 11,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "descricao": "Nas terras da Terra-média, um jovem hobbit chamado Frodo Bolseiro recebe a tarefa de destruir o Um Anel, uma arma de poder absoluto criada pelo Senhor Sombrio, Sauron.",
+      "autor": "J.R.R. Tolkien",
+      "preco": 89.90,
+      "imagem": "/produtos/11.png",
+      "destaque": false
+    },
+    {
+      "id": 12,
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "descricao": "Harry Potter descobre no seu aniversário de 11 anos que é um bruxo e é convidado a ingressar na Escola de Magia e Bruxaria de Hogwarts, onde viverá grandes aventuras.",
+      "autor": "J.K. Rowling",
+      "preco": 49.90,
+      "imagem": "/produtos/12.png",
+      "destaque": false
+    },
+    {
+      "id": 13,
+      "titulo": "A Guerra dos Tronos",
+      "descricao": "Em um mundo onde os verões e invernos podem durar anos, as grandes casas nobres de Westeros conspiram e lutam pelo controle do Trono de Ferro, enquanto uma ameaça antiga desperta no Norte.",
+      "autor": "George R.R. Martin",
+      "preco": 99.90,
+      "imagem": "/produtos/13.png",
+      "destaque": true
+    },
+    {
+      "id": 14,
+      "titulo": "O Nome do Vento",
+      "descricao": "Kvothe, um homem liricamente talentoso que se tornou o mago mais famoso e infame que o mundo já conheceu, reconta sua própria história desde a infância em uma trupe de artistas.",
+      "autor": "Patrick Rothfuss",
+      "preco": 79.90,
+      "imagem": "/produtos/14.png",
+      "destaque": false
+    },
+    {
+      "id": 15,
+      "titulo": "O Caminho dos Reis",
+      "descricao": "Introdução à épica saga de Roshar, um mundo devastado por tempestades brutais onde a guerra pelos estilhaços mágicos define o destino de nações e guerreiros.",
+      "autor": "Brandon Sanderson",
+      "preco": 119.90,
+      "imagem": "/produtos/15.png",
+      "destaque": false
+    },
+    {
+      "id": 16,
+      "titulo": "As Crônicas de Nárnia",
+      "descricao": "Viagens ao fim do mundo, criaturas fantásticas e batalhas épicas entre o bem e o mal acontecem no reino mágico escondido atrás de um antigo guarda-roupa.",
+      "autor": "C.S. Lewis",
+      "preco": 84.90,
+      "imagem": "/produtos/16.png",
+      "destaque": false
+    },
+    {
+      "id": 17,
+      "titulo": "Percy Jackson e o Ladrão de Raios",
+      "descricao": "O adolescente Percy Jackson descobre que os deuses do Olimpo estão vivos no século XXI e que ele próprio é um semideus, filho de Poseidon, acusado de roubar o raio de Zeus.",
+      "autor": "Rick Riordan",
+      "preco": 39.90,
+      "imagem": "/produtos/17.png",
+      "destaque": false
+    },
+    {
+      "id": 18,
+      "titulo": "Corte de Espinhos e Rosas",
+      "descricao": "Feyre, uma caçadora de 19 anos, mata um lobo na floresta e acaba sendo arrastada para uma terra mágica e perigosa por uma criatura bestial que, na verdade, é um feérico imortal.",
+      "autor": "Sarah J. Maas",
+      "preco": 54.90,
+      "imagem": "/produtos/18.png",
+      "destaque": false
+    },
+    {
+      "id": 19,
+      "titulo": "O Ladrão de Almas",
+      "descricao": "Geralt de Rívia é um bruxo, um assassino de aluguel mutante com poderes mágicos que caça monstros em um mundo onde as pessoas costumam ser mais cruéis que as feras.",
+      "autor": "Andrzej Sapkowski",
+      "preco": 49.90,
+      "imagem": "/produtos/19.png",
+      "destaque": false
+    },
+    {
+      "id": 20,
+      "titulo": "Circe",
+      "descricao": "Uma releitura ousada e intimista da história da feiticeira exilada na ilha de Eana, que cruza o caminho de deuses, monstros e heróis lendários da mitologia grega.",
+      "autor": "Madeline Miller",
+      "preco": 47.90,
+      "imagem": "/produtos/20.png",
+      "destaque": false
+    }
+  ],
+  "Suspense e Terror": [
+    {
+      "id": 21,
+      "titulo": "Garota Exemplar",
+      "descricao": "Na manhã de seu quinto aniversário de casamento, Amy Dunne desaparece sem deixar rastros. Seu marido, Nick, torna-se o principal suspeito enquanto um jogo psicológico complexo se revela.",
+      "autor": "Gillian Flynn",
+      "preco": 49.90,
+      "imagem": "/produtos/21.png",
+      "destaque": false
+    },
+    {
+      "id": 22,
+      "titulo": "O Iluminado",
+      "descricao": "Jack Torrance consegue um emprego como zelador de inverno no isolado Hotel Overlook. À medida que a neve os prende lá dentro, as forças sinistras do lugar começam a afetar sua sanidade.",
+      "autor": "Stephen King",
+      "preco": 69.90,
+      "imagem": "/produtos/22.png",
+      "destaque": true
+    },
+    {
+      "id": 23,
+      "titulo": "E Não Sobrou Nenhum",
+      "descricao": "Dez pessoas sem nenhuma ligação aparente são convidadas para uma ilha misteriosa. Uma a uma, elas começam a ser assassinadas seguindo os versos de uma antiga cantiga infantil.",
+      "autor": "Agatha Christie",
+      "preco": 39.90,
+      "imagem": "/produtos/23.png",
+      "destaque": false
+    },
+    {
+      "id": 24,
+      "titulo": "O Silêncio dos Inocentes",
+      "descricao": "A jovem agente do FBI, Clarice Starling, precisa entrevistar o brilhante e psicopata canibal Dr. Hannibal Lecter para conseguir pistas que a ajudem a capturar outro assassino em série.",
+      "autor": "Thomas Harris",
+      "preco": 44.90,
+      "imagem": "/produtos/24.png",
+      "destaque": false
+    },
+    {
+      "id": 25,
+      "titulo": "A Paciente Silenciosa",
+      "descricao": "Alicia Berenson tinha uma vida perfeita até dar cinco tiros no rosto do marido e nunca mais dizer uma única palavra. Um psicoterapeuta forense fica obcecado em fazê-la falar.",
+      "autor": "Alex Michaelides",
+      "preco": 49.90,
+      "imagem": "/produtos/25.png",
+      "destaque": false
+    },
+    {
+      "id": 26,
+      "titulo": "Drácula",
+      "descricao": "A clássica e gótica obra que definiu o mito do vampiro moderno, narrada através de cartas e diários sobre a viagem do Conde Drácula da Transilvânia até a Inglaterra.",
+      "autor": "Bram Stoker",
+      "preco": 34.90,
+      "imagem": "/produtos/26.png",
+      "destaque": false
+    },
+    {
+      "id": 27,
+      "titulo": "O Homem de Giz",
+      "descricao": "Em 1986, um grupo de amigos usa desenhos de giz para mandar mensagens secretas. Trinta anos depois, eles recebem novos desenhos de giz que os forçam a reviver um assassinato do passado.",
+      "autor": "C.J. Tudor",
+      "preco": 46.90,
+      "imagem": "/produtos/27.png",
+      "destaque": false
+    },
+    {
+      "id": 28,
+      "titulo": "Bird Box: Não Abra os Olhos",
+      "descricao": "Em uma Terra dominada por criaturas que enlouquecem quem as olha, Malorie tenta levar seus dois filhos pequenos em uma perigosa viagem de barco rio abaixo com os olhos vendados.",
+      "autor": "Josh Malerman",
+      "preco": 41.90,
+      "imagem": "/produtos/28.png",
+      "destaque": false
+    },
+    {
+      "id": 29,
+      "titulo": "O Vilarejo",
+      "descricao": "Em um vilarejo isolado pelo frio, sete demônios agem secretamente na alma dos moradores, desencadeando uma série de crimes e revelando o lado mais obscuro da natureza humana.",
+      "autor": "Raphael Montes",
+      "preco": 37.90,
+      "imagem": "/produtos/29.png",
+      "destaque": true
+    },
+    {
+      "id": 30,
+      "titulo": "Misery: Louca Obsessão",
+      "descricao": "O famoso escritor Paul Sheldon sofre um acidente de carro e é resgatado por Annie Wilkes, que se autointitula sua fã número um. Logo, ele percebe que virou seu prisioneiro.",
+      "autor": "Stephen King",
+      "preco": 59.90,
+      "imagem": "/produtos/30.png",
+      "destaque": false
+    }
+  ],
+  "Romance": [
+    {
+      "id": 31,
+      "titulo": "É Assim que Acaba",
+      "descricao": "Lily Bloom se muda para Boston, abre seu próprio negócio e conhece Ryle Kincaid. À medida que o relacionamento avança, ela se vê diante de dilemas dolorosos sobre amor e limites.",
+      "autor": "Colleen Hoover",
+      "preco": 44.90,
+      "imagem": "/produtos/31.png",
+      "destaque": false
+    },
+    {
+      "id": 32,
+      "titulo": "Orgulho e Preconceito",
+      "descricao": "Na Inglaterra do século XIX, a espirituosa Elizabeth Bennet lida com as pressões do casamento e com sua relação turbulenta e cheia de faíscas com o aristocrata arrogante Sr. Darcy.",
+      "autor": "Jane Austen",
+      "preco": 29.90,
+      "imagem": "/produtos/32.png",
+      "destaque": false
+    },
+    {
+      "id": 33,
+      "titulo": "Como Eu Era Antes de Você",
+      "descricao": "Louisa Clark perde o emprego e aceita trabalhar como cuidadora de Will Traynor, um homem inteligente, rico e agora tetraplégico que perdeu o desejo de viver. Uma história que muda a vida de ambos.",
+      "autor": "Jojo Moyes",
+      "preco": 49.90,
+      "imagem": "/produtos/33.png",
+      "destaque": false
+    },
+    {
+      "id": 34,
+      "titulo": "A Culpa é das Estrelas",
+      "descricao": "Hazel Grace é uma paciente terminal de câncer que vê sua vida mudar drasticamente ao conhecer Augustus Waters no grupo de apoio, um jovem que a ensinará a viver um pequeno infinito.",
+      "autor": "John Green",
+      "preco": 39.90,
+      "imagem": "/produtos/34.png",
+      "destaque": false
+    },
+    {
+      "id": 35,
+      "titulo": "Teto Para Dois",
+      "descricao": "Para economizar dinheiro, Tiffy e Leon decidem dividir o mesmo apartamento e a mesma cama, mas com um detalhe: eles nunca se encontraram pessoalmente e se comunicam apenas por post-its.",
+      "autor": "Beth O'Leary",
+      "preco": 45.90,
+      "imagem": "/produtos/35.png",
+      "destaque": false
+    },
+    {
+      "id": 36,
+      "titulo": "Amor & Gelato",
+      "descricao": "Lina viaja para a Itália para realizar o último desejo da mãe: conhecer o pai que nunca esteve presente. Lá, ela recebe um diário antigo e começa a descobrir os segredos românticos de Florença.",
+      "autor": "Jenna Evans Welch",
+      "preco": 36.90,
+      "imagem": "/produtos/36.png",
+      "destaque": false
+    },
+    {
+      "id": 37,
+      "titulo": "A Hipótese do Amor",
+      "descricao": "Olive Smith, uma cientista pragmática, decide fingir um namoro para convencer sua amiga de que superou um ex. Ela só não esperava que o voluntário seria Adam Carlsen, o professor mais tirano do departamento.",
+      "autor": "Ali Hazelwood",
+      "preco": 48.00,
+      "imagem": "/produtos/37.png",
+      "destaque": false
+    },
+    {
+      "id": 38,
+      "titulo": "O Duque e Eu",
+      "descricao": "Daphne Bridgerton e o Duque de Hastings, Simon Basset, fingem um cortejo para afastar as mães casamenteiras e atrair pretendentes adequados. Mas a farsa começa a dar lugar a sentimentos reais.",
+      "autor": "Julia Quinn",
+      "preco": 39.90,
+      "imagem": "/produtos/38.png",
+      "destaque": false
+    },
+    {
+      "id": 39,
+      "titulo": "Vermelho, Branco e Sangue Azul",
+      "descricao": "O filho da presidenta dos EUA e o príncipe da Inglaterra são rivais declarados. Após um incidente diplomático, eles são forçados a simular uma trégua que evolui para algo muito mais profundo e secreto.",
+      "autor": "Casey McQuiston",
+      "preco": 47.90,
+      "imagem": "/produtos/39.png",
+      "destaque": false
+    },
+    {
+      "id": 40,
+      "titulo": "Pessoas Normais",
+      "descricao": "Marianne e Connell fingem não se conhecer na escola devido às diferenças sociais, mas iniciam uma conexão íntima que se estende pelos anos de universidade, explorando traumas e amadurecimento.",
+      "autor": "Sally Rooney",
+      "preco": 52.90,
+      "imagem": "/produtos/40.png",
+      "destaque": false
+    }
+  ]
+}
