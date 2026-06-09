@@ -13,7 +13,7 @@ export default function Footer() {
             <img src="/logo/logo (2).png" alt="VA" className="h-10 w-auto" />
             </div>
             <p className="text-zinc-500 text-sm leading-relaxed max-w-xs">
-              Roupas e suplementos esportivos para quem leva o treino a sério. Performance, estilo e resultados.
+              Uma grande variedade de livros para todos os gostos. Encontre seu próximo favorito hoje mesmo!
             </p>
             <div className="flex gap-4 mt-5">
               {["instagram", "facebook", "youtube"].map((social) => (
@@ -50,7 +50,7 @@ export default function Footer() {
           <div>
             <h3 className="text-zinc-950 font-bold text-xs uppercase tracking-widest mb-4">Contato</h3>
             <ul className="space-y-3 text-sm text-zinc-500">
-              <li>contato@venusactive.com.br</li>
+              <li>contato@bookgarden.com.br</li>
               <li>(19) 99999-0000</li>
               <li>Itapeva, SP</li>
             </ul>
@@ -58,7 +58,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-zinc-800 pt-6 flex flex-col md:flex-row justify-between items-center gap-2">
-          <p className="text-zinc-600 text-xs">&copy; {currentYear} . Todos os direitos reservados.</p>
+          <p className="text-zinc-600 text-xs">&copy; {currentYear} Book Garden. Todos os direitos reservados.</p>
           <p className="text-zinc-700 text-xs">Feito com dedicação para atletas de verdade.</p>
         </div>
       </div>

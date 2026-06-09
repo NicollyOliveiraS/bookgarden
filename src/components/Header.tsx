@@ -18,13 +18,13 @@ export default function Header() {
 
         {/* Nav desktop */}
         <nav className="hidden md:flex items-center gap-8">
-          <Link href="/" className="text-zinc-400 hover:text-amber-400 text-sm font-medium uppercase tracking-widest transition-colors">
+          <Link href="/" className="text-zinc-400 hover:text-emerald-400 text-sm font-medium uppercase tracking-widest transition-colors">
             Home
           </Link>
-          <Link href="/produtos" className="text-zinc-400 hover:text-amber-400 text-sm font-medium uppercase tracking-widest transition-colors">
+          <Link href="/produtos" className="text-zinc-400 hover:text-emerald-400 text-sm font-medium uppercase tracking-widest transition-colors">
             Produtos
           </Link>
-          <Link href="/contato" className="text-zinc-400 hover:text-amber-400 text-sm font-medium uppercase tracking-widest transition-colors">
+          <Link href="/contato" className="text-zinc-400 hover:text-emerald-400 text-sm font-medium uppercase tracking-widest transition-colors">
             Contato
           </Link>
        
