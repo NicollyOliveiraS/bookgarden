@@ -36,7 +36,7 @@ export default function Contato() {
   return (
     <main className="bg-amber-50/60 text-zinc-800 min-h-screen antialiased">
       {/* Header */}
-      <div className="bg-white border-b border-zinc-200/80 py-16 shadow-sm">
+      <div className="bg-amber-50/60 border-b border-zinc-200/80 py-16 shadow-sm">
         <div className="max-w-7xl mx-auto px-6">
           <p className="text-emerald-800 text-xs font-bold uppercase tracking-widest mb-2">Fale com a gente</p>
           <h1 className="text-4xl md:text-5xl text-zinc-900 font-black uppercase tracking-tight">Contato</h1>
@@ -48,7 +48,7 @@ export default function Contato() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
           
           {/* Coluna do Formulário */}
-          <div className="bg-white p-8 rounded-2xl shadow-sm border border-zinc-200/60">
+          <div className="bg-amber-50/60 p-8 rounded-2xl shadow-sm border border-zinc-200/60">
             <h2 className="text-2xl font-black text-zinc-900 uppercase tracking-tight mb-8">
               Enviar <span className="text-emerald-800">Mensagem</span>
             </h2>
@@ -148,7 +148,7 @@ export default function Contato() {
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
               {infos.map((info) => (
-                <div key={info.titulo} className="bg-white border border-zinc-200 rounded-2xl p-5 shadow-sm hover:shadow-md transition-shadow">
+                <div key={info.titulo} className="bg-amber-50/60 border border-zinc-200 rounded-2xl p-5 shadow-sm hover:shadow-md transition-shadow">
                   <span className="text-2xl block mb-2">{info.icon}</span>
                   <p className="text-xs font-bold uppercase tracking-widest text-zinc-400 mb-1">{info.titulo}</p>
                   <p className="text-zinc-800 text-sm leading-relaxed whitespace-pre-line font-medium">{info.valor}</p>
@@ -168,7 +168,7 @@ export default function Contato() {
                   <a
                     key={social.rede}
                     href="#"
-                    className="flex-1 min-w-30 bg-white border border-zinc-200 rounded-xl p-3 text-center group hover:border-emerald-700 hover:shadow-sm transition-all"
+                    className="flex-1 min-w-30 bg-amber-50/60 border border-zinc-200 rounded-xl p-3 text-center group hover:border-emerald-700 hover:shadow-sm transition-all"
                   >
                     <p className="text-xs font-bold uppercase tracking-widest text-zinc-400 group-hover:text-emerald-800 transition-colors">
                       {social.rede}

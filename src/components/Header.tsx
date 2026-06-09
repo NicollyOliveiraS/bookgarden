@@ -58,7 +58,7 @@ export default function Header() {
 
       {/* Mobile menu */}
       {menuOpen && (
-        <div className="md:hidden bg-zinc-900 border-t border-zinc-800 px-6 py-4 flex flex-col gap-4">
+        <div className="md:hidden bg-amber-50/60 border-t border-zinc-800 px-6 py-4 flex flex-col gap-4">
           <Link href="/" className="text-zinc-400 hover:text-emerald-700 text-sm font-medium uppercase tracking-widest" onClick={() => setMenuOpen(false)}>Home</Link>
           <Link href="/produtos" className="text-zinc-400 hover:text-emerald-700 text-sm font-medium uppercase tracking-widest" onClick={() => setMenuOpen(false)}>Produtos</Link>
           <Link href="/contato" className="text-zinc-400 hover:text-emerald-700 text-sm font-medium uppercase tracking-widest" onClick={() => setMenuOpen(false)}>Contato</Link>
