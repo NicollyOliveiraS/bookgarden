@@ -11,7 +11,7 @@ export default function Header() {
         
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 group">
-          <img src="/logo/logo (2).png" alt="Book Garden Logo" className="h-9 w-auto object-contain" />
+          <img src="/logo/logo__2_-removebg-preview.png" alt="Book Garden Logo" className="h-9 w-auto object-contain" />
         </Link>
 
         {/* Nav desktop */}
@@ -41,8 +41,9 @@ export default function Header() {
         <button
           className="md:hidden text-zinc-900 p-2 hover:bg-zinc-100 rounded-lg transition-colors"
           onClick={() => setMenuOpen(!menuOpen)}
-          aria-label="Abrir Menu"
+          aria-label={ menuOpen ? "Fechar menu" : "Abrir menu" }
         >
+         
           <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             {menuOpen ? (
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
