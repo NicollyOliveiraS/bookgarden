@@ -27,9 +27,9 @@ export default function Contato() {
   };
 
   const infos = [
-    { icon: "📍", titulo: "Endereço", valor: "Av. das Esportistas, 1234\nCampinas, SP - CEP 13000-000" },
+    { icon: "📍", titulo: "Endereço", valor: "Av. , 1234\nItapeva, SP - CEP 13000-000" },
     { icon: "📞", titulo: "Telefone", valor: "(19) 99999-0000" },
-    { icon: "📧", titulo: "E-mail", valor: "contato@venusactive.com.br" },
+    { icon: "📧", titulo: "E-mail", valor: "contato@bookgarden.com.br" },
     { icon: "⏰", titulo: "Horário", valor: "Seg–Sex: 9h às 18h\nSáb: 9h às 13h" },
   ];
 
@@ -40,7 +40,7 @@ export default function Contato() {
         <div className="max-w-7xl mx-auto px-6">
           <p className="text-emerald-800 text-xs font-bold uppercase tracking-widest mb-2">Fale com a gente</p>
           <h1 className="text-4xl md:text-5xl text-zinc-900 font-black uppercase tracking-tight">Contato</h1>
-          <p className="text-zinc-500 mt-2 text-sm md:text-base">Estamos prontos para te ajudar a atingir seus objetivos.</p>
+          <p className="text-zinc-500 mt-2 text-sm md:text-base">Estamos prontos para te ajudar.</p>
         </div>
       </div>
 
@@ -161,9 +161,9 @@ export default function Contato() {
               <p className="text-xs font-bold uppercase tracking-widest text-zinc-400 mb-4">Nos siga nas redes</p>
               <div className="flex flex-wrap gap-3">
                 {[
-                  { rede: "Instagram", handle: "@venusactive" },
-                  { rede: "Facebook", handle: "VenusActive" },
-                  { rede: "YouTube", handle: "Venus Active" },
+                  { rede: "Instagram", handle: "@bookgarden" },
+                  { rede: "Facebook", handle: "BookGarden" },
+                  { rede: "YouTube", handle: "Book Garden" },
                 ].map((social) => (
                   <a
                     key={social.rede}

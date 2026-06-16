@@ -30,7 +30,7 @@ export default function Produtos() {
     <div className="flex min-h-screen flex-col justify-between bg-gray-50">
       
 
-      <main className="grow container mx-auto px-4 py-12">
+      <main className="bg-amber-50/60 grow container mx-auto px-4 py-12">
         <div className="text-center max-w-2xl mx-auto mb-8">
           <h1 className="text-4xl font-bold mb-4 text-gray-900">Nossos Produtos</h1>
           <p className="text-lg text-gray-600">Explore os livros disponíveis em nossa loja.</p>
