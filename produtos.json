@@ -165,15 +165,6 @@
       "destaque": false
     },
     {
-      "id": 19,
-      "titulo": "O Ladrão de Almas",
-      "descricao": "Geralt de Rívia é um bruxo, um assassino de aluguel mutante com poderes mágicos que caça monstros em um mundo onde as pessoas costumam ser mais cruéis que as feras.",
-      "autor": "Andrzej Sapkowski",
-      "preco": 49.90,
-      "imagem": "/produtos/19.png",
-      "destaque": false
-    },
-    {
       "id": 20,
       "titulo": "Circe",
       "descricao": "Uma releitura ousada e intimista da história da feiticeira exilada na ilha de Eana, que cruza o caminho de deuses, monstros e heróis lendários da mitologia grega.",
@@ -211,22 +202,14 @@
       "imagem": "/produtos/23.png",
       "destaque": false
     },
-    {
-      "id": 24,
-      "titulo": "O Silêncio dos Inocentes",
-      "descricao": "A jovem agente do FBI, Clarice Starling, precisa entrevistar o brilhante e psicopata canibal Dr. Hannibal Lecter para conseguir pistas que a ajudem a capturar outro assassino em série.",
-      "autor": "Thomas Harris",
-      "preco": 44.90,
-      "imagem": "/produtos/24.png",
-      "destaque": false
-    },
+    
     {
       "id": 25,
       "titulo": "A Paciente Silenciosa",
       "descricao": "Alicia Berenson tinha uma vida perfeita até dar cinco tiros no rosto do marido e nunca mais dizer uma única palavra. Um psicoterapeuta forense fica obcecado em fazê-la falar.",
       "autor": "Alex Michaelides",
       "preco": 49.90,
-      "imagem": "/produtos/25.png",
+      "imagem": "/produtos/25.jpg",
       "destaque": false
     },
     {
@@ -235,7 +218,7 @@
       "descricao": "A clássica e gótica obra que definiu o mito do vampiro moderno, narrada através de cartas e diários sobre a viagem do Conde Drácula da Transilvânia até a Inglaterra.",
       "autor": "Bram Stoker",
       "preco": 34.90,
-      "imagem": "/produtos/26.png",
+      "imagem": "/produtos/26.webp",
       "destaque": false
     },
     {
@@ -244,7 +227,7 @@
       "descricao": "Em 1986, um grupo de amigos usa desenhos de giz para mandar mensagens secretas. Trinta anos depois, eles recebem novos desenhos de giz que os forçam a reviver um assassinato do passado.",
       "autor": "C.J. Tudor",
       "preco": 46.90,
-      "imagem": "/produtos/27.png",
+      "imagem": "/produtos/27.jfif",
       "destaque": false
     },
     {
@@ -253,7 +236,7 @@
       "descricao": "Em uma Terra dominada por criaturas que enlouquecem quem as olha, Malorie tenta levar seus dois filhos pequenos em uma perigosa viagem de barco rio abaixo com os olhos vendados.",
       "autor": "Josh Malerman",
       "preco": 41.90,
-      "imagem": "/produtos/28.png",
+      "imagem": "/produtos/28.webp",
       "destaque": false
     },
     {
@@ -262,7 +245,7 @@
       "descricao": "Em um vilarejo isolado pelo frio, sete demônios agem secretamente na alma dos moradores, desencadeando uma série de crimes e revelando o lado mais obscuro da natureza humana.",
       "autor": "Raphael Montes",
       "preco": 37.90,
-      "imagem": "/produtos/29.png",
+      "imagem": "/produtos/29.webp",
       "destaque": true
     },
     {
@@ -271,100 +254,9 @@
       "descricao": "O famoso escritor Paul Sheldon sofre um acidente de carro e é resgatado por Annie Wilkes, que se autointitula sua fã número um. Logo, ele percebe que virou seu prisioneiro.",
       "autor": "Stephen King",
       "preco": 59.90,
-      "imagem": "/produtos/30.png",
-      "destaque": false
-    }
-  ],
-  "Romance": [
-    {
-      "id": 31,
-      "titulo": "É Assim que Acaba",
-      "descricao": "Lily Bloom se muda para Boston, abre seu próprio negócio e conhece Ryle Kincaid. À medida que o relacionamento avança, ela se vê diante de dilemas dolorosos sobre amor e limites.",
-      "autor": "Colleen Hoover",
-      "preco": 44.90,
-      "imagem": "/produtos/31.png",
-      "destaque": false
-    },
-    {
-      "id": 32,
-      "titulo": "Orgulho e Preconceito",
-      "descricao": "Na Inglaterra do século XIX, a espirituosa Elizabeth Bennet lida com as pressões do casamento e com sua relação turbulenta e cheia de faíscas com o aristocrata arrogante Sr. Darcy.",
-      "autor": "Jane Austen",
-      "preco": 29.90,
-      "imagem": "/produtos/32.png",
-      "destaque": false
-    },
-    {
-      "id": 33,
-      "titulo": "Como Eu Era Antes de Você",
-      "descricao": "Louisa Clark perde o emprego e aceita trabalhar como cuidadora de Will Traynor, um homem inteligente, rico e agora tetraplégico que perdeu o desejo de viver. Uma história que muda a vida de ambos.",
-      "autor": "Jojo Moyes",
-      "preco": 49.90,
-      "imagem": "/produtos/33.png",
-      "destaque": false
-    },
-    {
-      "id": 34,
-      "titulo": "A Culpa é das Estrelas",
-      "descricao": "Hazel Grace é uma paciente terminal de câncer que vê sua vida mudar drasticamente ao conhecer Augustus Waters no grupo de apoio, um jovem que a ensinará a viver um pequeno infinito.",
-      "autor": "John Green",
-      "preco": 39.90,
-      "imagem": "/produtos/34.png",
-      "destaque": false
-    },
-    {
-      "id": 35,
-      "titulo": "Teto Para Dois",
-      "descricao": "Para economizar dinheiro, Tiffy e Leon decidem dividir o mesmo apartamento e a mesma cama, mas com um detalhe: eles nunca se encontraram pessoalmente e se comunicam apenas por post-its.",
-      "autor": "Beth O'Leary",
-      "preco": 45.90,
-      "imagem": "/produtos/35.png",
-      "destaque": false
-    },
-    {
-      "id": 36,
-      "titulo": "Amor & Gelato",
-      "descricao": "Lina viaja para a Itália para realizar o último desejo da mãe: conhecer o pai que nunca esteve presente. Lá, ela recebe um diário antigo e começa a descobrir os segredos românticos de Florença.",
-      "autor": "Jenna Evans Welch",
-      "preco": 36.90,
-      "imagem": "/produtos/36.png",
-      "destaque": false
-    },
-    {
-      "id": 37,
-      "titulo": "A Hipótese do Amor",
-      "descricao": "Olive Smith, uma cientista pragmática, decide fingir um namoro para convencer sua amiga de que superou um ex. Ela só não esperava que o voluntário seria Adam Carlsen, o professor mais tirano do departamento.",
-      "autor": "Ali Hazelwood",
-      "preco": 48.00,
-      "imagem": "/produtos/37.png",
-      "destaque": false
-    },
-    {
-      "id": 38,
-      "titulo": "O Duque e Eu",
-      "descricao": "Daphne Bridgerton e o Duque de Hastings, Simon Basset, fingem um cortejo para afastar as mães casamenteiras e atrair pretendentes adequados. Mas a farsa começa a dar lugar a sentimentos reais.",
-      "autor": "Julia Quinn",
-      "preco": 39.90,
-      "imagem": "/produtos/38.png",
-      "destaque": false
-    },
-    {
-      "id": 39,
-      "titulo": "Vermelho, Branco e Sangue Azul",
-      "descricao": "O filho da presidenta dos EUA e o príncipe da Inglaterra são rivais declarados. Após um incidente diplomático, eles são forçados a simular uma trégua que evolui para algo muito mais profundo e secreto.",
-      "autor": "Casey McQuiston",
-      "preco": 47.90,
-      "imagem": "/produtos/39.png",
-      "destaque": false
-    },
-    {
-      "id": 40,
-      "titulo": "Pessoas Normais",
-      "descricao": "Marianne e Connell fingem não se conhecer na escola devido às diferenças sociais, mas iniciam uma conexão íntima que se estende pelos anos de universidade, explorando traumas e amadurecimento.",
-      "autor": "Sally Rooney",
-      "preco": 52.90,
-      "imagem": "/produtos/40.png",
+      "imagem": "/produtos/30.jfif",
       "destaque": false
     }
   ]
 }
+  
