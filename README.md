@@ -125,3 +125,6 @@ npm run build
 - **Acessibilidade**: Imagens com atributos descritivos `alt` claros e botões móveis com tags de acessibilidade `aria-label` adequadas para leitores de tela.
 - **Tags Semânticas**: Uso correto de elementos do HTML5 como `<header>`, `<nav>`, `<main>`, `<section>` e `<footer>`, o que facilita a indexação por mecanismos de busca (Google, Bing, etc.).
 - **Carregamento Otimizado**: Imagens de produtos utilizam a propriedade `loading="lazy"` nativa para carregar apenas as imagens que estão visíveis no campo de visão do usuário, economizando largura de banda e acelerando o tempo de carregamento da página.
+
+
+Link da Vercel: https://bookgarden.vercel.app
