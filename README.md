@@ -110,8 +110,7 @@ Ter o **Node.js** (versão 18 ou superior) instalado em seu computador.
    npm run dev
    ```
 5. **Visualizar o resultado**:
-   Acesse o link da Vercel:
-   https://bookgarden.vercel.app
+   Acesse no seu navegador o endereço [http://localhost:3000](http://localhost:3000).
 
 ### Compilar para Produção (Build)
 Para testar a otimização máxima dos arquivos estáticos e verificar erros de sintaxe ou tipagem:
