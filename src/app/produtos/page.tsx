@@ -76,15 +76,15 @@ export default function Produtos() {
                 className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-100 hover:shadow-xl transition-shadow duration-300 flex flex-col"
               >
                 {/* Container da Imagem */}
-                <div className="h-64 w-full bg-gray-200 relative overflow-hidden">
+                <div className="aspect-[3/4] w-full bg-zinc-50 relative overflow-hidden flex items-center justify-center p-4">
                   <img 
                     src={livro.imagem} 
                     alt={livro.titulo} 
-                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                    className="max-h-full max-w-full object-contain rounded shadow-md hover:scale-105 transition-transform duration-300"
                   />
                   {livro.destaque && (
-                    <span className="absolute top-2 right-2 bg-amber-400 text-amber-900 text-[10px] font-bold px-2 py-1 rounded-full uppercase">
-                      Destaque
+                    <span className="absolute top-3 right-3 bg-amber-400 text-amber-950 text-[10px] font-black px-2.5 py-1 rounded-full uppercase tracking-widest shadow-sm z-10">
+                      ★ Destaque
                     </span>
                   )}
                 </div>

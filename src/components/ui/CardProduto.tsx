@@ -28,11 +28,11 @@ export default function CardProduto(props: CardProdutoProps) {
     <div className="bg-white rounded-2xl shadow-sm hover:shadow-xl border border-zinc-100 transition-all duration-300 flex flex-col h-full group overflow-hidden">
       
       {/* Container da Imagem */}
-      <div className="aspect-square w-full bg-zinc-50 relative overflow-hidden">
+      <div className="aspect-[3/4] w-full bg-zinc-50 relative overflow-hidden flex items-center justify-center p-4">
         <img
           src={imagem}
           alt={titulo}
-          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+          className="max-h-full max-w-full object-contain rounded shadow-md group-hover:scale-105 transition-transform duration-500"
           loading="lazy"
         />
         {destaque && (

@@ -7,22 +7,22 @@ export default function Header() {
 
   return (
     <header className="w-full bg-amber-50/90 backdrop-blur-md border-b border-zinc-200 sticky top-0 z-50 transition-all">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 h-20 flex items-center justify-between">
         
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 group">
-          <img src="/logo/logo__2_-removebg-preview.png" alt="Book Garden Logo" className="h-9 w-auto object-contain" />
+          <img src="/logo/logo__2_-removebg-preview.png" alt="Book Garden Logo" className="h-11 w-auto object-contain transition-transform duration-300 group-hover:scale-105" />
         </Link>
 
         {/* Nav desktop */}
-        <nav className="hidden md:flex items-center gap-8">
-          <Link href="/" className="text-zinc-600 hover:text-emerald-700 text-xs font-bold uppercase tracking-widest transition-colors">
+        <nav className="hidden md:flex items-center gap-10">
+          <Link href="/" className="text-zinc-600 hover:text-emerald-700 text-sm font-bold uppercase tracking-widest transition-colors">
             Home
           </Link>
-          <Link href="/produtos" className="text-zinc-600 hover:text-emerald-700 text-xs font-bold uppercase tracking-widest transition-colors">
+          <Link href="/produtos" className="text-zinc-600 hover:text-emerald-700 text-sm font-bold uppercase tracking-widest transition-colors">
             Produtos
           </Link>
-          <Link href="/contato" className="text-zinc-600 hover:text-emerald-700 text-xs font-bold uppercase tracking-widest transition-colors">
+          <Link href="/contato" className="text-zinc-600 hover:text-emerald-700 text-sm font-bold uppercase tracking-widest transition-colors">
             Contato
           </Link>
         </nav>
@@ -31,7 +31,7 @@ export default function Header() {
         <div className="hidden md:flex items-center gap-4">
           <Link
             href="/produtos"
-            className="bg-emerald-700 text-white text-xs font-bold uppercase tracking-widest px-5 py-2.5 rounded hover:bg-emerald-600 transition-colors shadow-sm"
+            className="bg-emerald-700 text-white text-sm font-bold uppercase tracking-widest px-6 py-3 rounded hover:bg-emerald-600 transition-colors shadow-sm hover:shadow-md transition-all duration-300"
           >
             Comprar
           </Link>

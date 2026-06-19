@@ -13,9 +13,9 @@ import {
 import type { CarouselApi } from "@/components/ui/carousel"
 
 const carrosselImagens = [
-  { src: "/carrossel/banner1.png", alt: "Oferta com cupom - Venus Active" },
-  { src: "/carrossel/banner2.png", alt: "Nova Coleção Alta Performance" },
-  { src: "/carrossel/banner3.png", alt: "Suplementação Avançada" },
+  { src: "/carrossel/0001.png", alt: "Book Garden — Sua Livraria Online" },
+  { src: "/carrossel/0002.png", alt: "Explore Nossos Gêneros Literários" },
+  { src: "/carrossel/0003.png", alt: "Ofertas e Lançamentos Imperdíveis" },
 ]
 
 export default function Carrossel() {

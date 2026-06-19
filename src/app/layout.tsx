@@ -11,8 +11,8 @@ const barlow = Barlow({
   variable: "--font-barlow",
 });
 export const metadata: Metadata = {
-  title: "Venus Active — Roupas & Suplementos Esportivos",
-  description: "Loja de roupas e suplementos esportivos de alta performance para atletas.",
+  title: "Book Garden — Sua Livraria Online",
+  description: "Explore o universo da leitura na Book Garden. Encontre os melhores livros de ficção científica, fantasia, romance, suspense e muito mais.",
 };
 export default function RootLayout({
   children,
